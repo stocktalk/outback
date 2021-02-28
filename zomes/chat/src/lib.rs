@@ -1,3 +1,6 @@
+//Much of this is based on the work here:
+//https://github.com/holochain/holochain/tree/develop/crates/test_utils/wasm/wasm_workspace/whoami
+// whih follows this license: https://github.com/holochain/holochain/blob/develop/LICENSE
 use hdk::prelude::*;
 use uuid::Uuid;
 
